@@ -1,0 +1,16 @@
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\bin\Debug\net5.0\WeightLiftingApp.exe
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\bin\Debug\net5.0\WeightLiftingApp.deps.json
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\bin\Debug\net5.0\WeightLiftingApp.runtimeconfig.json
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\bin\Debug\net5.0\WeightLiftingApp.runtimeconfig.dev.json
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\bin\Debug\net5.0\WeightLiftingApp.dll
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\bin\Debug\net5.0\ref\WeightLiftingApp.dll
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\bin\Debug\net5.0\WeightLiftingApp.pdb
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\WeightLiftingApp.csproj.AssemblyReference.cache
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\WeightLiftingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\WeightLiftingApp.AssemblyInfoInputs.cache
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\WeightLiftingApp.AssemblyInfo.cs
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\WeightLiftingApp.csproj.CoreCompileInputs.cache
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\WeightLiftingApp.dll
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\ref\WeightLiftingApp.dll
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\WeightLiftingApp.pdb
+C:\Users\Valentin.Jorge\source\repos\Teladoc\Teladoc-Health-Test\WeightLiftingApp\WeightLiftingApp\obj\Debug\net5.0\WeightLiftingApp.genruntimeconfig.cache
